@@ -29,14 +29,18 @@ You will need to have installed [Anaconda](https://www.anaconda.com/distribution
 Run the following commands in a terminal.
 
 Clone the repository:
-`$ git clone https://github.com/avani-bhojwani/IOD_capstone_bioreactor.git
-`$ cd IOD_capstone_bioreactor_cell_growth`
+
+```$ git clone https://github.com/avani-bhojwani/IOD_capstone_bioreactor.git
+$ cd IOD_capstone_bioreactor_cell_growth```
 
 Create a conda environment from the environment.yml file:
+
 `$ conda env create -f environment.yml`
 
 Activate the new environment:
+
 `$ conda activate bioreactor`
 
 Finally, launch Jupyter notebook!
+
 `$ jupyter notebook`
