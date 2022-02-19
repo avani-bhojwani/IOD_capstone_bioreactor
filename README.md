@@ -30,8 +30,8 @@ Run the following commands in a terminal.
 
 Clone the repository:
 
-```$ git clone https://github.com/avani-bhojwani/IOD_capstone_bioreactor.git
-$ cd IOD_capstone_bioreactor_cell_growth```
+`$ git clone https://github.com/avani-bhojwani/IOD_capstone_bioreactor.git`
+`$ cd IOD_capstone_bioreactor_cell_growth`
 
 Create a conda environment from the environment.yml file:
 
